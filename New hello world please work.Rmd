@@ -1,7 +1,0 @@
----
-title: "AQM 1 Hello World"
-author: "shiyuki"
-date: "Wednesday, November 12, 2014"
-output: html_document
----
-Hello world retest retest please work please work
