@@ -4,19 +4,20 @@ author: "Shiyuki"
 date: "Tuesday, November 18, 2014"
 output:
   html_document
-      keep_md: true
 ---
 
-Hello, thank you for reading! Here is a quick summary of what I did to push my README to my Github Repository.
-1. Create document, and run + knit html to see it displays correctly.
-1. Add keep_md: true line back in.
-1. Go to Git tab in top right window
-1. Select Commit.
-1. Select file 
-    - In my case it was About Me Homework.Rmd
-1. Commit, and push.
+Hello, thank you for reading! 
 ---
-# -------------- --------------- --------------- ---------------
+<span style="color:orange;">Here is a quick summary of what I did to push my README to my Github Repository.</span>
+
+1. Go to **Git** tab in top right window
+1. Select _Commit_.
+1. Select file 
+    - In my case it was _About Me Homework.Rmd_
+1. Commit, and push.
+1. Check [Github](github.com) to see it's there and working! 
+![smile](http://a.deviantart.net/avatars/h/a/hardeeharhar1423.gif?11)
+
 # <span style="color:blue;">Assignment 1 - The Markdown Challenge</span>
  
 <div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:40px 0;">
@@ -27,7 +28,7 @@ Hello, thank you for reading! Here is a quick summary of what I did to push my R
 
 <span style="background-color:beige">“You should enjoy the little detours. To the fullest. Because that’s where you’ll find the things more important than what you want.”</span> - Ging Freecs
 
-### Long list of things I like:
+### Long list of random things I like:
 + <span style="background-color:lime">Music:</span>
     * Classical(Piano, Violin) 
     * JPop
