@@ -61,8 +61,6 @@ Hello, thank you for reading!
 1. [Background Colour for Large Space](http://answers.squarespace.com/questions/33137/change-background-color-of-text-block)
 
 
-```{r, include=FALSE}
-   # add this chunk to end of mycode.rmd
+{r, include=FALSE}
    file.rename(from="scripts/mycode.md", 
                to="README.md")
-```
