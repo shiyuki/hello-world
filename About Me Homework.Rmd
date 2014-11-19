@@ -12,6 +12,9 @@ Hello, thank you for reading! Here is a quick summary of what I did to push my R
 1. Add keep_md: true line back in.
 1. Go to Git tab in top right window
 1. Select Commit.
+1. Select file 
+    - In my case it was About Me Homework.Rmd
+1. Commit, and push.
 ---
 # -------------- --------------- --------------- ---------------
 # <span style="color:blue;">Assignment 1 - The Markdown Challenge</span>
