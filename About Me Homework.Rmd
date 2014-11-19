@@ -2,8 +2,9 @@
 title: "Read Me"
 author: "Shiyuki"
 date: "Tuesday, November 18, 2014"
-output: html_document
+output: html_document:
           keep_md: true
+
 ---
 
 Hello, thank you for reading! 
@@ -59,8 +60,3 @@ Hello, thank you for reading!
 1. [Colouring Background](http://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-md-file)
 1. [Colouring Text](http://www.share-elm.com/sprout/546c33a6e4b00800031fedd3)
 1. [Background Colour for Large Space](http://answers.squarespace.com/questions/33137/change-background-color-of-text-block)
-
-
-{r, include=FALSE}
-   file.rename(from="scripts/mycode.md", 
-               to="README.md")
