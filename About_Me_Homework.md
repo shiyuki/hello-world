@@ -1,11 +1,6 @@
----
-title: "Read Me"
-author: "Shiyuki"
-date: "Tuesday, November 18, 2014"
-output: 
- html_document:
-  keep_md: true
----
+# Read Me
+Shiyuki  
+Tuesday, November 18, 2014  
 
 Hello, thank you for reading! 
 ---
