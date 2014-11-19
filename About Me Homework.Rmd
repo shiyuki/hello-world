@@ -2,9 +2,8 @@
 title: "Read Me"
 author: "Shiyuki"
 date: "Tuesday, November 18, 2014"
-output:
-  html_document
-    keep_md: true
+output: html_document
+          keep_md: true
 ---
 
 Hello, thank you for reading! 
