@@ -4,6 +4,8 @@ Tuesday, November 18, 2014
 
 Hello, thank you for reading! 
 ---
+To learn about me, please click [here](http://htmlpreview.github.io/?https://github.com/AQM-WorkshopRepo/YJ_Song_AQM/blob/master/README.html)
+
 <span style="color:orange;">Here is a quick summary of what I did to push my README to my Github Repository.</span>
 
 1. Go to **Git** tab in top right window
