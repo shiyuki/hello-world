@@ -9,9 +9,17 @@ output:
 
 Hello, thank you for reading! 
 ---
+##Please proceed by [this link](http://htmlpreview.github.io/?https://github.com/AQM-WorkshopRepo/YJ_Song_AQM/blob/master/README.html) for a better and more colourful version!
+
+![welcome](http://i925.photobucket.com/albums/ad100/Marwan_Nulhakam/prototype/gif_welcome.gif)
+
+#### Good day! I am a second year UBC BCom student intending to specialize in finance with a possible second specialization in accounting. Having immigrated to Vancouver 10 years ago from Asia, I grew up learning to keep an open mind and speaking two languages, and am now working on Japanese and French.  
+
+####My personal webpage is unfortunately still under construction, but it will be up in the next week. For now, for an informal list of my hobbies and interests, please scroll down!
+
+![trees](http://img.timeinc.net/time/photoessays/2008/trees/franklin_trees_01.jpg)
 
 
-To learn about me, please click [here](http://htmlpreview.github.io/?https://github.com/AQM-WorkshopRepo/YJ_Song_AQM/blob/master/README.html)
 
 <span style="color:orange;">Here is a quick summary of what I did to push my README to my Github Repository.</span>
 
